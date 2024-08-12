@@ -14,7 +14,7 @@ This project is a RESTful API built with [Express](https://expressjs.com/) and [
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/) (v16.x or higher)
-- [npm](https://www.npmjs.com/) (v8.x or higher) or [yarn](https://yarnpkg.com/)
+- [npm](https://www.npmjs.com/) (v8.x or higher)
 - [MongoDB](https://www.mongodb.com/) (local or cloud-based)
 
 ## Getting Started
